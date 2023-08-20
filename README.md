@@ -7,7 +7,7 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 **Aula 02 (28/07/2023):**    
     Solução gráfica (continuação), Método Simplex.
 
-**Aula 04 (4/08/2023):**
+**Aula 04 (4/08/2023):**    
     Revisão.
 
 **Aula 04 (11/08/2023):**    
