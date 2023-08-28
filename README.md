@@ -15,3 +15,6 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 
 **Aula 05 (18/08/2023):**    
     Teorema das Folgas Complementares, programação em `Julia`.
+
+**Aula 06 (25/08/2023):**    
+    Problema do Transporte, Problema Incompleto, exemplos em `Julia`.
