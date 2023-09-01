@@ -18,3 +18,6 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 
 **Aula 06 (25/08/2023):**    
     Problema do Transporte, Problema Incompleto, exemplos em `Julia`.
+
+**Aula 07 (01/09/2023):**    
+    Problema do Caminho Mínimo, exemplos em `Julia`.
