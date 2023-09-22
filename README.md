@@ -25,4 +25,7 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 **Sem aula (08/09/2023):**
 
 **Aula 08 (15/09/2023):**    
-    Problema do Fluxo Máximo, Problema do Transporte como Fluxo, Problema da Designação, exemplos em `Julia`.
+    Problema do Fluxo Máximo, Problema do Transporte como Fluxo, Problema da Designação, exemplos em `Julia`..
+
+**Aula 09 (22/09/2023):**    
+    Exercícios de revisão.
