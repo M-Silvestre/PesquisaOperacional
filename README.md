@@ -31,4 +31,4 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
     Exercícios de revisão.
 
 **Aula 10 (29/09/2023):**    
-    Segunda Avaliação, Problema do Transbordo.
+    Segunda Avaliação.
