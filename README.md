@@ -32,3 +32,6 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 
 **Aula 10 (29/09/2023):**    
     Segunda Avaliação.
+
+**Aula 11 (06/10/2023):**    
+    Problema do Transbordo, PERT/CPM.
