@@ -35,3 +35,9 @@ Repositório destinado para anotações e códigos das aulas da disciplina Pesqu
 
 **Aula 11 (06/10/2023):**    
     Problema do Transbordo, PERT/CPM.
+
+**Aula 12 (27/10/2023):**    
+    Teoria das Filas.
+
+**Aula 13 (03/10/2023):**    
+    Terceira avaliação aberta no sistema.
